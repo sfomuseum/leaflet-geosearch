@@ -9,6 +9,7 @@ export { default as OpenCageProvider } from './openCageProvider';
 export { default as OpenStreetMapProvider } from './openStreetMapProvider';
 export { default as CivilDefenseMapProvider } from './civilDefenseMapProvider';
 export { default as PeliasProvider } from './peliasProvider';
+export { default as PlaceholderProvider } from './placeholderProvider';
 export { default as MapBoxProvider } from './mapBoxProvider';
 export { default as GeoApiFrProvider } from './geoApiFrProvider';
 export { default as GeoapifyProvider } from './geoapifyProvider';
